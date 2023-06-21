@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Dji",
+        "photo": "Drone2.jpg",
+        "price": {
+            "USD": 5.00,
+            "CAD": 1200
+        },
+        "type": "Drone"
+    },
+    {
+        "id": 2,
+        "name": "Manette playstation",
+        "photo": "manette.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 80.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 3,
+        "name": "Dji Maverick",
+        "photo": "Drone.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 2200.00
+        },
+        "type": "Drone"
+    },
+    {
+        "id": 4,
+        "name": "Macbook pro",
+        "photo": "macbook.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 1800.00
+        },
+        "type": "Pc"
+    },
+    {
+        "id": 5,
+        "name": "Nintendo Swich",
+        "photo": "Nintendo.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 500.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 6,
+        "name": "playstation5",
+        "photo": "playstation5.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 1200.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 7,
+        "name": "playstation4",
+        "photo": "ps4.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 10.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 8,
+        "name": "Samsung tv 77",
+        "photo": "Tele.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 2199.00
+        },
+        "type": "tele"
+    },
+    {
+        "id": 9,
+        "name": "apple watch",
+        "photo": "watch.jpg",
+        "price": {
+            "USD": 5.00,
+            "CAD": 140.00
+        },
+        "type": "Montres"
+    },
+    {
+        "id": 10,
+        "name": "Dji",
+        "photo": "Drone2.jpg",
+        "price": {
+            "USD": 5.00,
+            "CAD": 1200
+        },
+        "type": "Drone"
+    },
+    {
+        "id": 11,
+        "name": "Manette playstation",
+        "photo": "manette.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 80.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 12,
+        "name": "Dji Maverick",
+        "photo": "Drone.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 2200.00
+        },
+        "type": "Drone"
+    },
+    {
+        "id": 13,
+        "name": "Macbook pro",
+        "photo": "macbook.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 1800.00
+        },
+        "type": "Pc"
+    },
+    {
+        "id": 14,
+        "name": "Nintendo Swich",
+        "photo": "Nintendo.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 500.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 15,
+        "name": "playstation5",
+        "photo": "playstation5.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 1200.00
+        },
+        "type": "Jeux Vidéo"
+    },
+    {
+        "id": 16,
+        "name": "playstation4",
+        "photo": "ps4.jpg",
+        "price": {
+            "USD": 10.00,
+            "CAD": 10.00
+        },
+        "type": "Jeux Vidéo"
+    }
+]
